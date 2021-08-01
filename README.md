@@ -1,10 +1,16 @@
 # Projeto-Integrador-2021
 Trabalho escolar com ênfase na área médica realizado pelos alunos Emanuel Lázaro, Estéfano Santos e Estêvão Turbay
  
-link documento: 
+Link do texto mais explicativo:
 
 https://docs.google.com/document/d/1mC07AvuXS8oQGCfKQ_-hxKqqsdLu0tGZfcwPvgP_K0g/edit?usp=sharing
 
+
+Organização do Projeto até o momento: 
+
+Emanuel Lázaro realizou as atividades 1, 2  e auxiliou na 6 e 8
+Estêvão realizou as tarefas 3, 4 e auxiliou na 7 e 8
+Estéfano realizou as tarefas 5, além da 6, 7 e 8 com ajuda dos demais participantes do projeto
 
 Componentes:
 Estêvão: estevaoturbay@gmail.com 
@@ -85,6 +91,7 @@ CREATE TABLE Tratamento (
     REFERENCES Ocorrencia (Num_caso)
 	ON DELETE NO ACTION
     ON UPDATE NO ACTION);
+
 
 
 
