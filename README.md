@@ -10,7 +10,7 @@ Organização do Projeto até o momento:
 
 Emanuel Lázaro realizou as atividades 1, 2  e auxiliou na 6 e 8
 Estêvão realizou as tarefas 3, 4 e auxiliou na 7 e 8
-Estéfano realizou as tarefas 5, além da 6, 7 e 8 com ajuda dos demais participantes do projeto
+Estéfano realizou as tarefas 5, além da 6, 7 e 8 com ajuda dos demais participantes do projeto; envio das tarefas
 
 Componentes:
 Estêvão: estevaoturbay@gmail.com 
