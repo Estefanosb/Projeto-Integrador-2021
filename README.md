@@ -124,8 +124,4 @@ INSERT INTO Tratamento (Num_caso, Dsc_tratamento, Problema_saude ) VALUES
 
 
 
-
-
-
-
-
+10. Prints das consultas das tabelas foram enviadas por pdf no ava 
